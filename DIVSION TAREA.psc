@@ -6,5 +6,4 @@ Algoritmo sin_titulo
 	Leer numero2
 	Total<-numero1/numero2
 	Escribir"El resultado es"
-	Mostrar Total
 FinAlgoritmo
